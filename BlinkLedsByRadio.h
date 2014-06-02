@@ -12,6 +12,7 @@ enum {
   LED_BLINK_TOTAL = 6,
   SEND_DELAY = 50, /*milliseconds*/
   BLINK_DELAY = 400,
+  /*time to checking*/
   CHECKING_INTERVAL = (LED_BLINK_TOTAL * BLINK_DELAY) + SEND_DELAY,
   INACTIVE_TIME_LIMIT = (CHECKING_INTERVAL * 6),
 };
