@@ -1,5 +1,7 @@
 # Real Time and Embedded Systems
 
+A simple test application to blink radio's led on data transfer process
+
 ### Tecnology
 - nesC
 - [MICAz](http://tinyos.stanford.edu/tinyos-wiki/index.php/MICAz)
