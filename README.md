@@ -1,6 +1,12 @@
-#Sistemas de tempo real e embarcado
+# Real Time and Embedded Systems
 
-###Implementar um aplicativo que use 3 nós.
+### Tecnology
+- nesC
+- [MICAz](http://tinyos.stanford.edu/tinyos-wiki/index.php/MICAz)
+- [IRIS](http://tinyos.stanford.edu/tinyos-wiki/index.php/Iris)
+
+
+### Implementar um aplicativo que use 3 nós.
 
 1. O primeiro nó pisca um LED e manda o segundo nó piscar um LED.
 1. O segundo nó pisca seu LED e manda o terceiro nó piscar um LED.
@@ -9,9 +15,9 @@
 
 Mostrar o resultado no TOSSIM e com nós reais (eu fornecerei os nós no dia da apresentação)
 
-##Detalhes úteis
+## Detalhes úteis
 
-####Pegar id do nó
+#### Pegar id do nó
 
 ```
 TOS_NODE_ID
